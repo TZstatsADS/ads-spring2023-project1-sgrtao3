@@ -5,8 +5,6 @@
 <img src="figs/100126-the-glass.jpeg" width="500">
 
 ### [Project Description](doc/)
-This is the first and only *individual* (as opposed to *team*) project this semester. 
-
 Term: Spring 2023
 
 + Projec title: History of Philosophy
